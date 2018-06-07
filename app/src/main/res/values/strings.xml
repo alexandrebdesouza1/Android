@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andoid</string>
+    <string name="main_digite_um_numero">Digite um numero</string>
+    <string name="main_digite_outro_numero">Digite outro numero</string>
+</resources>
